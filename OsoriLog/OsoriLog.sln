@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsoriLog", "OsoriLog.csproj", "{D914F8E9-3DB2-47AC-AE6E-93BE7B28264A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OsoriLog", "OsoriLog.csproj", "{D914F8E9-3DB2-47AC-AE6E-93BE7B28264A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTesting", "UnitTesting", "{F5EA36E5-961C-49CF-A6EE-9C953C75AEF9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "O4LogApp", "O4LogApp", "{8B92B2EF-3A13-4481-BA54-A1A4E2940048}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "O4Log", "O4Log", "{90037949-7D3D-4B82-8679-FCB951B7CFF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +24,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D914F8E9-3DB2-47AC-AE6E-93BE7B28264A} = {90037949-7D3D-4B82-8679-FCB951B7CFF0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B0C36E31-269F-4C6F-9C53-FC1431B89196}
