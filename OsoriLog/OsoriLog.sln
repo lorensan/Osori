@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTesting", "UnitTesting"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "O4LogApp", "O4LogApp", "{8B92B2EF-3A13-4481-BA54-A1A4E2940048}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "O4Log", "O4Log", "{90037949-7D3D-4B82-8679-FCB951B7CFF0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{91C21AF1-A22E-4A85-96D4-D1D8C16AC16C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsoriAPI", "..\OsoriAPI\OsoriAPI.csproj", "{434BFE14-E4C7-492E-896A-A2EF510C9284}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,12 +23,17 @@ Global
 		{D914F8E9-3DB2-47AC-AE6E-93BE7B28264A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D914F8E9-3DB2-47AC-AE6E-93BE7B28264A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D914F8E9-3DB2-47AC-AE6E-93BE7B28264A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434BFE14-E4C7-492E-896A-A2EF510C9284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434BFE14-E4C7-492E-896A-A2EF510C9284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434BFE14-E4C7-492E-896A-A2EF510C9284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434BFE14-E4C7-492E-896A-A2EF510C9284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{D914F8E9-3DB2-47AC-AE6E-93BE7B28264A} = {90037949-7D3D-4B82-8679-FCB951B7CFF0}
+		{D914F8E9-3DB2-47AC-AE6E-93BE7B28264A} = {91C21AF1-A22E-4A85-96D4-D1D8C16AC16C}
+		{434BFE14-E4C7-492E-896A-A2EF510C9284} = {8B92B2EF-3A13-4481-BA54-A1A4E2940048}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B0C36E31-269F-4C6F-9C53-FC1431B89196}

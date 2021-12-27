@@ -1,0 +1,10 @@
+C:\Users\loren\source\repos\lorensan\Osori\OsoriLog\bin\Debug\netcoreapp3.1\OsoriLog.deps.json
+C:\Users\loren\source\repos\lorensan\Osori\OsoriLog\bin\Debug\netcoreapp3.1\OsoriLog.dll
+C:\Users\loren\source\repos\lorensan\Osori\OsoriLog\bin\Debug\netcoreapp3.1\OsoriLog.pdb
+C:\Users\loren\source\repos\lorensan\Osori\OsoriLog\obj\Debug\netcoreapp3.1\OsoriLog.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\lorensan\Osori\OsoriLog\obj\Debug\netcoreapp3.1\OsoriLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\lorensan\Osori\OsoriLog\obj\Debug\netcoreapp3.1\OsoriLog.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\lorensan\Osori\OsoriLog\obj\Debug\netcoreapp3.1\OsoriLog.AssemblyInfo.cs
+C:\Users\loren\source\repos\lorensan\Osori\OsoriLog\obj\Debug\netcoreapp3.1\OsoriLog.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\lorensan\Osori\OsoriLog\obj\Debug\netcoreapp3.1\OsoriLog.dll
+C:\Users\loren\source\repos\lorensan\Osori\OsoriLog\obj\Debug\netcoreapp3.1\OsoriLog.pdb
